@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://catherinbor.github.io/.github/cleanmymac">
+<a href="https://tanahavlic8094.github.io/.github/cleanmymac">
 <img src="https://img.shields.io/badge/GET_CleanMyMac_X-green?style=for-the-badge&logo=apple" alt="GET CleanMyMac X">
 </a>
 </div>
